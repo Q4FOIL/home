@@ -15,7 +15,7 @@ export default function Home() {
         <h1 className={styles.title}>
                 
             <Image src="/UgH_MM30_400x400.jpeg"  />
-          <br />
+        
           Quatrefoil
         </h1>
 

@@ -13,9 +13,9 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-                 <span className={styles.logo}>
-            <Image src="/UgH_MM30_400x400.jpeg" alt="Vercel Logo" width={72} height={16} />
-          </span>
+                
+            <Image src="/UgH_MM30_400x400.jpeg"  />
+          <br />
           Quatrefoil
         </h1>
 

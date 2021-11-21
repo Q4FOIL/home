@@ -17,19 +17,18 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+         Choose our services
         </p>
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <h2>Staking &rarr;</h2>
+            <p>Stake Quatrefoil and earn APY</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
-            <h2>Learn &rarr;</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+            <h2>Lottery &rarr;</h2>
+            <p>Join to our lottery and win prizes!</p>
           </a>
 
           <a
